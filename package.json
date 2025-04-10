@@ -1,7 +1,7 @@
 {
 	"name": "gemini-chat",
-	"version": "1.0.1",
-	"description": "Markdown attribute modifier (MAM) is a Python tool designed to automate the modification of date (pubDatetime) and cover image (image) attributes in Markdown files.",
+	"version": "1.0.2",
+	"description": "Gemini Chat is a Python tool that leverages the Gemini API to provide an interactive AI chatbot experience.",
 	"main": "index.js",
 	"scripts": {
 		"start": "node index.js",
@@ -10,15 +10,13 @@
 
 	"keywords": [
 		"npm",
-		"css",
 		"markdown",
-		"image",
-		"datetime",
-		"markdown editor",
-		"markdown attribute",
-		"attribute",
-		"editor",
-		"class",
+		"gemini",
+		"gemini api",
+		"google api",
+		"api",
+		"gemini developer",
+		"developer",
 		"python script",
 		"python",
 		"python3",
